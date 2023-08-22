@@ -1,2 +1,2 @@
-# Amazon-clone
-I have created a clone of AMAZON front-end using HTML ,CSS
+Food-Web
+i have created a front-end for food ordering web
